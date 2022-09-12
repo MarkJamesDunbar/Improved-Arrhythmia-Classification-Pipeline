@@ -2,6 +2,10 @@
 Final Project Thesis in partial fulfilment of the degree of MSc Big Data Science at the Queen Mary University of London. In this paper, several ML techniques will be employed to produce a model pipeline that takes an electrocardiogram signal (ECG) input signal vector, and correctly classifies individually identified heartbeats as normal, or one of several classes of arrhythmia. The classifications produced by the model should identify cases where ICD intervention is appropriate. 
 
 ## Files
+There are two PDFs containing the Thesis paper and a reflective analysis of the steps taken to complete the project:
+
+* `ProjectThesis.pdf`
+* `ProjectReflectiveAnalysis.pdf`
 
 The Jupyter notebooks in this repository represent the coded work for my final project. 
 There are three notebook files in total:
@@ -9,11 +13,6 @@ There are three notebook files in total:
 * `ProjectConceptExploration.ipynb`
 * `ProjectExtractionAndPreprocessing.ipynb`
 * `ProjectExperimentsAndPipeline.ipynb`
-
-There are two PDFs containing the Thesis paper and a reflective analysis of the steps taken to complete the project:
-
-* `ProjectThesis.pdf`
-* `ProjectReflectiveAnalysis.pdf`
 
 ## Project Concept Exploration
 
