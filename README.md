@@ -6,9 +6,9 @@ Final Project Thesis in partial fulfilment of the degree of MSc Big Data Science
 The Jupyter notebooks in this folder represent the coded work for my final project. 
 There are three notebook files in total:
 
-1. ProjectConceptExploration.ipynb
-2. ProjectExtractionAndPreprocessing.ipynb
-3. ProjectExperimentsAndPipeline.ipynb
+1. `ProjectConceptExploration.ipynb`
+2. `ProjectExtractionAndPreprocessing.ipynb`
+3. `ProjectExperimentsAndPipeline.ipynb`
 
 ## Project Concept Exploration
 
@@ -16,7 +16,7 @@ The first notebook:  ProjectConceptExploration.ipynb is a sandbox/testing notebo
 testing and developing the implementation of various concepts used throughout the project.
 It is provided here to give some insight to some of the code used in the final pipeline.
 
-## Project Concept Exploration
+## Project Extraction and Preprocessing
 
 The next notebook: ProjectExtractionAndPreprocessing.ipynb is used to extract the data from
 the dataset, remap the provided physionet labels to AAMI labels, and finally save the data
