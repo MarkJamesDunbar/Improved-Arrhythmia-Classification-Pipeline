@@ -3,12 +3,17 @@ Final Project Thesis in partial fulfilment of the degree of MSc Big Data Science
 
 ## Files
 
-The Jupyter notebooks in this folder represent the coded work for my final project. 
+The Jupyter notebooks in this repository represent the coded work for my final project. 
 There are three notebook files in total:
 
 * `ProjectConceptExploration.ipynb`
 * `ProjectExtractionAndPreprocessing.ipynb`
 * `ProjectExperimentsAndPipeline.ipynb`
+
+There are two PDFs containing the Thesis paper and a reflective analysis of the steps taken to complete the project:
+
+* `ProjectThesis.pdf`
+* `ProjectReflectiveAnalysis.pdf`
 
 ## Project Concept Exploration
 
